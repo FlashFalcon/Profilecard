@@ -1,0 +1,89 @@
+body{
+      background-size: auto;
+       text-align: center;
+       background-color: hsl(185, 75%, 39%);
+       background-image: url(images/bg-pattern-top.svg), url(images/bg-pattern-bottom.svg);
+       font-family: 'Kumbh', sans-serif;
+       font-weight: 400;
+     }
+
+hr {
+  border: inset 1px;
+  border-bottom: none;
+  border-color: #707070;
+}
+
+
+
+table {
+  border-collapse: separate;
+  border-spacing: 45px 0;
+  margin: auto;
+}
+
+
+
+.Top-Pattern {
+  position: absolute;
+  bottom: 500px;
+  left: 100px;
+
+}
+
+.Bottom-Pattern {
+  margin: 500px 0;
+  position: absolute;
+
+
+}
+
+.Box{
+background-color: White;
+border-radius: 25px;
+border-style: none;
+width: 21.875rem;
+height: 30%;
+position: absolute;
+left: 1000px;
+bottom: 400px;
+box-shadow: 1px 1px 25px  #6A6F81
+}
+
+.bg-pattern {
+  border-radius: 25px 25px 0 0
+}
+
+.victor-img {
+  border-radius: 100%;
+  position:absolute;
+  width: 40%;
+  border: solid;
+  border-color: white;
+  border-width: thick;
+  bottom: 150px;
+  left: 100px;
+
+}
+
+.name {
+  margin: 100px 0 0 0;
+}
+
+.stats {
+  font-family: 'Kumbh', sans-serif;
+  font-weight: 700;
+}
+
+.stats2 {
+  font-family: 'Kumbh', sans-serif;
+  font-weight: 400;
+  font-size: 65%;
+  color: #6A6F81;
+}
+
+
+.attribution {
+  position: absolute;
+  bottom: 50px;
+  left: 1020px;
+}
